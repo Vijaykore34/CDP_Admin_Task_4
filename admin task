@@ -1,0 +1,8 @@
+> In Cloudera cluster green will show the status of the service that cluster is healthy
+Green ==> healthy
+yellow/orage  ===> warning / conserning
+Red ===> critical/error/fatal
+
+> word used for xml is  client configuration 
+
+> Go in cloudera cluster hive on tez go in configuration search for advance configuration snippet under hive site.xml 
